@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "rami",
+      "email": "rami.garcia.orsi@gmail.com",
+      "telefono": "345",
+      "empresa": "eee",
+      "id": 1674087553687
+    }
+  ]
+}
